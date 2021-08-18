@@ -1,0 +1,89 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "EDF9936E",
+      "localizations" : [
+        {
+          "description" : "Purchases the \"Intense Flat\" vibration.",
+          "displayName" : "Intense Flat",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ivaanteo.Vibe.IntenseFlat",
+      "referenceName" : "Intense Flat",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "E9A2D951",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ivaanteo.Vibe.CalmWaves",
+      "referenceName" : "Calm Waves",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "38180193",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ivaanteo.Vibe.RockyBeach",
+      "referenceName" : "Rocky Beach",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "689D84A5",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ivaanteo.Vibe.Rapids",
+      "referenceName" : "Rapids",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "943A148A",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ivaanteo.Vibe.Falls",
+      "referenceName" : "Falls",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}

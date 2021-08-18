@@ -7,15 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C14CA03268337EC0060D4ED /* ShopCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C14CA02268337EC0060D4ED /* ShopCollectionViewController.swift */; };
+		2C14CA06268370CB0060D4ED /* ShopCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C14CA05268370CB0060D4ED /* ShopCollectionViewCell.swift */; };
+		2C14CA0C268386290060D4ED /* GradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C14CA0B268386290060D4ED /* GradientLayer.swift */; };
+		2C14CA10268389BC0060D4ED /* PurchaseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C14CA0F268389BC0060D4ED /* PurchaseButton.swift */; };
+		2C14CA142683966B0060D4ED /* ShopCollectionViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C14CA132683966B0060D4ED /* ShopCollectionViewHeader.swift */; };
+		2C1C95CA267BB289003779E4 /* CoreHaptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1C95C9267BB289003779E4 /* CoreHaptics.swift */; };
+		2C4774E72684C5D4002BF8EB /* BackgroundVibrationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4774E62684C5D4002BF8EB /* BackgroundVibrationManager.swift */; };
+		2C4774EB2684CE14002BF8EB /* BackgroundVibrationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4774EA2684CE14002BF8EB /* BackgroundVibrationViewModel.swift */; };
+		2C4774F12684DA1F002BF8EB /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4774F02684DA1F002BF8EB /* Constants.swift */; };
+		2C4774F52684DCD6002BF8EB /* BackgroundVibrationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4774F42684DCD6002BF8EB /* BackgroundVibrationModel.swift */; };
+		2C4774F92684F4AC002BF8EB /* GradientVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4774F82684F4AC002BF8EB /* GradientVC.swift */; };
+		2C4E3512267F446100188E50 /* RippleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4E3511267F446100188E50 /* RippleLayer.swift */; };
+		2C9817A9267C4A0000588C54 /* TouchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9817A8267C4A0000588C54 /* TouchViewController.swift */; };
+		2C9817AC267C56DB00588C54 /* PulsatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9817AB267C56DB00588C54 /* PulsatingView.swift */; };
+		2CFB3D6C26A84EF0004927A7 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CFB3D6B26A84EF0004927A7 /* StoreKit.framework */; };
 		2CFDFD2C267BABBE00B5C09D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFDFD2B267BABBE00B5C09D /* AppDelegate.swift */; };
 		2CFDFD2E267BABBE00B5C09D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFDFD2D267BABBE00B5C09D /* SceneDelegate.swift */; };
 		2CFDFD30267BABBE00B5C09D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFDFD2F267BABBE00B5C09D /* ViewController.swift */; };
 		2CFDFD33267BABBE00B5C09D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CFDFD31267BABBE00B5C09D /* Main.storyboard */; };
 		2CFDFD35267BABC100B5C09D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CFDFD34267BABC100B5C09D /* Assets.xcassets */; };
 		2CFDFD38267BABC100B5C09D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CFDFD36267BABC100B5C09D /* LaunchScreen.storyboard */; };
+		2CFDFD41267BACDF00B5C09D /* HapticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFDFD40267BACDF00B5C09D /* HapticsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C14CA02268337EC0060D4ED /* ShopCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopCollectionViewController.swift; sourceTree = "<group>"; };
+		2C14CA05268370CB0060D4ED /* ShopCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopCollectionViewCell.swift; sourceTree = "<group>"; };
+		2C14CA0B268386290060D4ED /* GradientLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientLayer.swift; sourceTree = "<group>"; };
+		2C14CA0F268389BC0060D4ED /* PurchaseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseButton.swift; sourceTree = "<group>"; };
+		2C14CA132683966B0060D4ED /* ShopCollectionViewHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopCollectionViewHeader.swift; sourceTree = "<group>"; };
+		2C1C95C9267BB289003779E4 /* CoreHaptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreHaptics.swift; sourceTree = "<group>"; };
+		2C4774E62684C5D4002BF8EB /* BackgroundVibrationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundVibrationManager.swift; sourceTree = "<group>"; };
+		2C4774EA2684CE14002BF8EB /* BackgroundVibrationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundVibrationViewModel.swift; sourceTree = "<group>"; };
+		2C4774F02684DA1F002BF8EB /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		2C4774F42684DCD6002BF8EB /* BackgroundVibrationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundVibrationModel.swift; sourceTree = "<group>"; };
+		2C4774F82684F4AC002BF8EB /* GradientVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientVC.swift; sourceTree = "<group>"; };
+		2C4E3511267F446100188E50 /* RippleLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RippleLayer.swift; sourceTree = "<group>"; };
+		2C9817A8267C4A0000588C54 /* TouchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchViewController.swift; sourceTree = "<group>"; };
+		2C9817AB267C56DB00588C54 /* PulsatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulsatingView.swift; sourceTree = "<group>"; };
+		2CFB3D6B26A84EF0004927A7 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		2CFB3D6E26A85BB7004927A7 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 		2CFDFD28267BABBE00B5C09D /* Vibe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vibe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CFDFD2B267BABBE00B5C09D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CFDFD2D267BABBE00B5C09D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +56,7 @@
 		2CFDFD34267BABC100B5C09D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CFDFD37267BABC100B5C09D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CFDFD39267BABC100B5C09D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CFDFD40267BACDF00B5C09D /* HapticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +64,85 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CFB3D6C26A84EF0004927A7 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2C14CA08268372E60060D4ED /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2CFDFD2F267BABBE00B5C09D /* ViewController.swift */,
+				2C9817A8267C4A0000588C54 /* TouchViewController.swift */,
+				2C14CA02268337EC0060D4ED /* ShopCollectionViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		2C14CA09268373020060D4ED /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2C14CA132683966B0060D4ED /* ShopCollectionViewHeader.swift */,
+				2C14CA05268370CB0060D4ED /* ShopCollectionViewCell.swift */,
+				2C9817AB267C56DB00588C54 /* PulsatingView.swift */,
+				2C4E3511267F446100188E50 /* RippleLayer.swift */,
+				2C14CA0B268386290060D4ED /* GradientLayer.swift */,
+				2CFDFD31267BABBE00B5C09D /* Main.storyboard */,
+				2CFDFD36267BABC100B5C09D /* LaunchScreen.storyboard */,
+				2C14CA0F268389BC0060D4ED /* PurchaseButton.swift */,
+				2C4774F82684F4AC002BF8EB /* GradientVC.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2C4774E52684C5B9002BF8EB /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				2C4774E62684C5D4002BF8EB /* BackgroundVibrationManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		2C4774E92684CDF6002BF8EB /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+				2C4774EA2684CE14002BF8EB /* BackgroundVibrationViewModel.swift */,
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
+		2C4774EF2684DA11002BF8EB /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				2C4774F02684DA1F002BF8EB /* Constants.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		2C4774F32684DCBF002BF8EB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2C4774F42684DCD6002BF8EB /* BackgroundVibrationModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		2CFB3D6A26A84EF0004927A7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2CFB3D6B26A84EF0004927A7 /* StoreKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		2CFDFD1F267BABBE00B5C09D = {
 			isa = PBXGroup;
 			children = (
 				2CFDFD2A267BABBE00B5C09D /* Vibe */,
 				2CFDFD29267BABBE00B5C09D /* Products */,
+				2CFB3D6A26A84EF0004927A7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,13 +157,19 @@
 		2CFDFD2A267BABBE00B5C09D /* Vibe */ = {
 			isa = PBXGroup;
 			children = (
+				2CFDFD34267BABC100B5C09D /* Assets.xcassets */,
 				2CFDFD2B267BABBE00B5C09D /* AppDelegate.swift */,
 				2CFDFD2D267BABBE00B5C09D /* SceneDelegate.swift */,
-				2CFDFD2F267BABBE00B5C09D /* ViewController.swift */,
-				2CFDFD31267BABBE00B5C09D /* Main.storyboard */,
-				2CFDFD34267BABC100B5C09D /* Assets.xcassets */,
-				2CFDFD36267BABC100B5C09D /* LaunchScreen.storyboard */,
+				2C4774EF2684DA11002BF8EB /* Constants */,
+				2C4774E52684C5B9002BF8EB /* Managers */,
+				2C4774F32684DCBF002BF8EB /* Models */,
+				2C14CA08268372E60060D4ED /* Controllers */,
+				2C4774E92684CDF6002BF8EB /* View Models */,
+				2C14CA09268373020060D4ED /* View */,
 				2CFDFD39267BABC100B5C09D /* Info.plist */,
+				2CFDFD40267BACDF00B5C09D /* HapticsManager.swift */,
+				2C1C95C9267BB289003779E4 /* CoreHaptics.swift */,
+				2CFB3D6E26A85BB7004927A7 /* Configuration.storekit */,
 			);
 			path = Vibe;
 			sourceTree = "<group>";
@@ -137,8 +244,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C4774F92684F4AC002BF8EB /* GradientVC.swift in Sources */,
+				2C1C95CA267BB289003779E4 /* CoreHaptics.swift in Sources */,
+				2C4774F52684DCD6002BF8EB /* BackgroundVibrationModel.swift in Sources */,
 				2CFDFD30267BABBE00B5C09D /* ViewController.swift in Sources */,
+				2C14CA10268389BC0060D4ED /* PurchaseButton.swift in Sources */,
+				2C14CA06268370CB0060D4ED /* ShopCollectionViewCell.swift in Sources */,
+				2C14CA03268337EC0060D4ED /* ShopCollectionViewController.swift in Sources */,
+				2C9817A9267C4A0000588C54 /* TouchViewController.swift in Sources */,
+				2C9817AC267C56DB00588C54 /* PulsatingView.swift in Sources */,
+				2C4774F12684DA1F002BF8EB /* Constants.swift in Sources */,
+				2C4774EB2684CE14002BF8EB /* BackgroundVibrationViewModel.swift in Sources */,
+				2C14CA0C268386290060D4ED /* GradientLayer.swift in Sources */,
 				2CFDFD2C267BABBE00B5C09D /* AppDelegate.swift in Sources */,
+				2C4E3512267F446100188E50 /* RippleLayer.swift in Sources */,
+				2C4774E72684C5D4002BF8EB /* BackgroundVibrationManager.swift in Sources */,
+				2CFDFD41267BACDF00B5C09D /* HapticsManager.swift in Sources */,
+				2C14CA142683966B0060D4ED /* ShopCollectionViewHeader.swift in Sources */,
 				2CFDFD2E267BABBE00B5C09D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +411,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = H8WFQ9GJF6;
 				INFOPLIST_FILE = Vibe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +431,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = H8WFQ9GJF6;
 				INFOPLIST_FILE = Vibe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
